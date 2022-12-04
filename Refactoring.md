@@ -35,4 +35,4 @@
 
 3. Replace internal_ids in getShiftsByFacility call;
 
-        All the occurance of internal db-ids should be replaced by custom - ids created by exposed API.
+        All the occurance of internal db-ids should be replaced by custom - ids created by exposed API.1
